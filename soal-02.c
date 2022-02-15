@@ -26,7 +26,7 @@ int main()
         for (int j = 0; j < 3; j++)
         {
             printf("masukkan data ke - [%d][%d] ", i, j);
-            scanf_s("%d", &matrix[i][j]);
+            scanf("%d", &matrix[i][j]);
         }
     }
     //hitung banyaknya nilai pixel di tiap rentang
