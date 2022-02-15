@@ -89,7 +89,7 @@ int main()
         }
     }
     //output histogram
-    printf("histogram matriks adalah : \n");
+    printf("histogram matriks adalah :\n");
     for (int i = 9; i >=0; i--)
     {
         for (int j = 0; j <5; j++)
@@ -99,7 +99,7 @@ int main()
         printf("\n");
     }
     //output LBP
-    printf("lbp matriks adalah : \n");
+    printf("lbp matriks adalah :\n");
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
