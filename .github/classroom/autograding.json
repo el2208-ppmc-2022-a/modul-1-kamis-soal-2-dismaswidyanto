@@ -35,7 +35,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "1\r\n4\r\n7\r\n3\r\n5\r\n15\r\n30\r\n50\r\n23",
-      "output": "histogram matriks adalah :\r\n     \r\n     \r\n     \r\n     \r\n     \r\n1    \r\n1    \r\n1    \r\n1 1   \r\n111 1\r\nlbp matriks adalah :\r\n00101111",
+      "output": "histogram matriks adalah :\r\n     \r\n     \r\n     \r\n     \r\n     \r\n1    \r\n1    \r\n1    \r\n1 1  \r\n111 1\r\nlbp matriks adalah :\r\n00101111",
       "comparison": "included",
       "timeout": 1,
       "points": 10
