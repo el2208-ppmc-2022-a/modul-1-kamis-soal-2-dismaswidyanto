@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "1",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "0\r\n50\r\n5\r\n45\r\n10\r\n40\r\n15\r\n35\r\n20",
+      "output": "histogram matriks adalah :\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n1\r\n11 11\r\n11 11\r\nlbp matriks adalah :\r\n01011111",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "2",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "1\r\n7\r\n13\r\n19\r\n25\r\n31\r\n37\r\n43\r\n49",
+      "output": "histogram matriks adalah :\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n11 11\r\n11111\r\nlbp matriks adalah :\r\n00001111",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "3",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "10\r\n20\r\n30\r\n40\r\n50\r\n50\r\n40\r\n40\r\n20",
+      "output": "histogram matriks adalah :\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n   1\r\n 1 11\r\n11111\r\nlbp matriks adalah :\r\n00001000",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "4",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "1\r\n4\r\n7\r\n3\r\n5\r\n15\r\n30\r\n50\r\n23",
+      "output": "histogram matriks adalah :\r\n\r\n\r\n\r\n\r\n\r\n1\r\n1\r\n1\r\n1 1\r\n111 1\r\nlbp matriks adalah :\r\n00101111",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "5",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "5\r\n10\r\n15\r\n20\r\n25\r\n30\r\n35\r\n40\r\n45",
+      "output": "histogram matriks adalah :\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n1111\r\n11111\r\nlbp matriks adalah :\r\n00001111",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "6",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "7",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "8",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "9",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "10",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
