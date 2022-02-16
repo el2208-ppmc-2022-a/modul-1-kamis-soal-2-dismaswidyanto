@@ -65,7 +65,7 @@
       "setup": "make soal-02",
       "run": "./soal-02",
       "input": "50\r\n49\r\n48\r\n47\r\n46\r\n45\r\n44\r\n43\r\n42",
-      "output": "histogram matriks adalah :\r\n     \r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\nlbp matriks adalah :\r\n11000000",
+      "output": "histogram matriks adalah :\r\n     \r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\n    1\r\nlbp matriks adalah :\r\n11110000",
       "comparison": "included",
       "timeout": 1,
       "points": 10
